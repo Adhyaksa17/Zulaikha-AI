@@ -4,7 +4,7 @@
 
 const CONFIG = {
     API_KEY: null,
-    //API_KEY: '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',//
+    API_KEY: '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',
     API_URL: 'https://api.groq.com/openai/v1/chat/completions',//
     MODEL: 'llama-3.3-70b-versatile',
     MAX_TOKENS: 4096,
